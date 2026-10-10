@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[2495],{95449:function(n,e,u){u.d(e,{E:function(){return _},L:function(){return t}});let t="1"===u(25566).env.NEXT_PUBLIC_KAL_APERCU,_=!0}}]);
